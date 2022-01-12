@@ -1,1 +1,3 @@
-greeting: simple_web_app
+greeting: simple_web_app71
+server:
+  port: 7171
